@@ -18,7 +18,7 @@ As a Salvadoran, I am naturally curious and thrive on continuous learning. I enj
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=REMR11&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=REMR11&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=REMR11&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=REMR11&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=REMR11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
